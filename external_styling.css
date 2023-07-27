@@ -1,0 +1,16 @@
+.abc{
+	color: blueviolet;
+	font-size: 40px;
+	font-family: Franklin Gothic Medium;
+
+	border: 2px dashed blue;
+	background-color: sandybrown;
+}
+
+/* the below 5 lines are id selector*/
+#a123{
+	font-size: 50px;
+	font-family: serif;
+	background-color: black;
+	color: darkorange;
+}
