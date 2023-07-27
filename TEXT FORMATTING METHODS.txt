@@ -1,0 +1,19 @@
+TEXT FORMATTING METHODS
+b -----> bold
+i -----> italic
+u -----> underline
+tt ----> typewriter text 
+mark ---> highlights with yellow colour 
+em -----> emphasize ( similar to italic)
+del ---> delete (strikes out)
+sup ---> superscript (power values)
+sub ---> subscript (base values) 
+small
+big
+bdo ----> defines the direction      [ <bdo dir="rtl"></bdo> ---> changes the text from right to left ]
+font ----> defines the font style, colour, size
+
+
+
+
+a ---> redirection purpose ( linking external webpages or external documents )

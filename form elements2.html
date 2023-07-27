@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Form Elements</title>
+</head>
+<body>
+	<form>
+		<label>Enter Name:</label>
+		<input type="text" placeholder="Enter first and last name" autofocus>
+		<br><br>
+		<label>Enter Roll No:</label>
+		<input type="text" value="1234567" readonly>
+		<br><br>
+		<label>Enter Roll No:</label>
+		<input type="text" value="1234567" disabled>
+		<br><br>
+		<label>Enter Mobile No:</label>
+		<input type="tel" maxlength="10" autocomplete="off">       <!-- tel is also same like number -->
+		<br><br>
+		<label>Enter mail:</label>
+		<input type="email">
+		<br><br>
+		<label>Enter your Password:</label>
+		<input type="password" required>
+		<br><br>
+		<label>Enter Date of Birth</label>
+		<input type="date">
+		<br><br>
+		<label>Choose gender:</label>
+		Male<input type="radio" name="gender">
+		Female<input type="radio" name="gender">
+		<br><br>
+		<label>Please agree the conditions:</label>
+		<input type="checkbox">
+		<br><br>
+		<label>Upload the file</label>
+		<input type="file">
+		<br><br>
+		<label>Select College</label>
+		<select>
+			<option>--select--</option>
+			<option>AEC</option>
+			<option>ACET</option>
+			<option>ACOE</option>
+		</select>
+		<br><br>
+		<label>Enter Remarks</label>
+		<textarea></textarea >
+		<br><br>
+		<input type="SUBMIT">
+		<input type="reset">
+
+
+
+	</form>
+
+
+</body>
+</html>
+
+
+
+<!--           DIFFERENT ATTRIBUTES OF FORM ELEMENTS 
+
+value        --  initally it will display the value
+readonly     --  the data can only be read, cannot changed
+disabled     --  same as readonly, but the box will change it's colour
+maxlength    --  used for mobile numbers as they will of 10 numbers
+placeholder  --  it will holds a value in the box
+required     --  the box has to be filled mandatory
+autofocus    --  By the default the cursor will be placed in a specified box
+autocomplete --  has to be passed with ON, OFF (gives an advantage for autocompletion i.e.frequently used details) -->
