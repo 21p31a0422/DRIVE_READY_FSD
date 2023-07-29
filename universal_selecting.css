@@ -1,0 +1,35 @@
+.abc{
+	color: blueviolet;
+	font-size: 40px;
+	font-family: Franklin Gothic Medium;
+
+	border: 2px dashed blue;
+	background-color: sandybrown;
+}
+
+/* the below 5 lines are id selector*/
+#a123{
+	font-size: 50px;
+	font-family: serif;
+	background-color: black;
+	color: darkorange;
+}
+
+/*the below lines are element selector*/
+p, span{
+	color: indianred;
+	font-family: verdana;
+	font-size: 40px;
+	background-color: moccasin;
+}
+
+hr{
+	border: 5px dashed black;
+}
+
+*{
+	font-family: cursive;
+	padding: 0px;
+	margin: 0px;
+
+}
