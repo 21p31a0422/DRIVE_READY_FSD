@@ -1,0 +1,20 @@
+.fulldiv{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	height: 3000px;
+	background-color: red;
+	position: relative;
+}
+
+.d1{
+	margin-right: auto;
+	margin-left: auto;
+	height: 600px;
+	background-color: blue;
+	position: relative;
+}
+.d1_txt{
+/*	text-align: right;*/
+margin-right: 60px;
+}

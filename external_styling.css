@@ -14,3 +14,41 @@
 	background-color: black;
 	color: darkorange;
 }
+
+/*the below lines are element selector*/
+p, span{
+	color: indianred;
+	font-family: verdana;
+	font-size: 40px;
+	background-color: moccasin;
+}
+
+h3{
+	background-color: crimson;
+}
+
+hr{
+	border: 5px dashed black;
+}
+
+input[type]{
+	color:green;
+}
+input[type]{
+	color:darkred;
+}
+
+input[type = "text"]{
+	color:blue;
+	background-color: aqua;
+	border: dashed green;
+}
+
+img[src]{
+	border: hotpink;
+	border-style: groove;
+	border-width: 10px;
+	height: 300px;
+	width: 500px;
+}
+

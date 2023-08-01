@@ -1,0 +1,31 @@
+h1{
+	background: red;
+	outline: 10px dotted black;
+	margin-top: 50px;
+	margin-left: 70px;
+}
+p{
+	background: blue;
+}
+div{
+	background-color: aqua;
+	height: 300px;
+	width: 400px;
+}
+.dmain{
+	background-color: black;
+	height: 400px;
+	width: 1200px;
+}
+.d1{
+	float: left;
+	margin-left: 30px;
+}
+.d2{
+	float: left;
+	margin-left: 30px;
+}
+.d3{
+	float: left;
+	margin-left: 30px;
+}
