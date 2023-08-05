@@ -1,0 +1,238 @@
+body{
+	background-color: lightgrey;
+}
+*{
+/*	margin: 0px;*/
+	font-family: calibri;
+}
+
+.div1{
+	width: 100%;
+	height: 40px;
+	background-color: whitesmoke;
+	margin-top: 10px;
+}
+.bt2, .bt3, .bt4, select{
+	padding: 4px 13px 4px 13px;
+	font-size: 17px;
+	border-radius: 5px;
+	margin: 4px 10px 6px 10px;
+	background-color: #99ccff;
+	color: whitesmoke;
+	border: 0px;
+}
+select{
+	background-color: #ff4d4d;
+}
+.bt1{
+	padding: 4px 13px 4px 13px;	
+	margin: 2px 10px 3px 535px;
+	font-size: 17px;
+	border-radius: 5px;
+	background-color: lightgreen;
+	color: whitesmoke;
+	border: 0px;
+}
+
+.div2{
+	height: 640px;
+	width: 430px;
+	margin: 25px 20px 0px 60px;
+	background-color: whitesmoke;
+	border-radius: 5px;
+	float: left;
+}
+.d2c{
+	height: 120px;
+	width: 120px;
+	background-color: blue;
+	margin: auto;
+	margin-top: 15px;
+	border-radius: 70px;
+	background-image: url("groot.jpg");
+	background-size: cover;
+	background-position: 190px 0px;
+}
+.name_groot{
+	margin-left:174px;
+	font-size: 35px;
+}
+p{
+	text-align: center;
+}
+.fol{
+	margin: 10px 5px 0px 148px;
+	padding: 6px 9px 5px 9px;
+	font-size: 15px;
+	background-color: #1a75ff;
+	border-radius: 3px;
+	color: white;	
+	border: 0px;
+}
+.mes{
+	margin: 10px 0px 20px 5px;
+	padding: 5px 7px 5px 7px;
+	font-size: 15px;
+	color: #1a75ff;
+	background-color: whitesmoke;
+	border: 2px solid #1a75ff;
+	border-radius: 3px;
+}
+
+hr {
+	width: 390px;
+    border-top: 1px solid #ccc;
+    margin-left: 20px;
+    
+}
+i[class="fa-brands fa-wikipedia-w"]{
+	margin: 9px 10px 6px 80px;
+	font-size: 27px;
+}
+i[class="fa-brands fa-github"]{
+	margin: 9px 12px 6px 80px;
+	font-size: 27px;
+}
+i[class="fa-brands fa-twitter"]{
+	color: #1a75ff;
+	margin: 9px 11px 6px 80px;
+	font-size: 27px;
+}
+i[class="fa-brands fa-instagram"]{
+	color: hotpink;
+	margin: 9px 14px 6px 80px;
+	font-size: 27px;
+}
+i[class="fa-brands fa-facebook-f"]{
+	color: #1a75ff;
+	margin: 9px 20px 6px 80px;
+	font-size: 27px;
+}
+
+.text1{
+	font-size: 18px;
+	margin: 10px 0px 2px 0px;
+}
+.text21{
+	margin: 8px 0px 6px 70px;
+}
+.text22{
+	margin: 8px 0px 6px 79px;
+}
+.text23{
+	margin: 8px 0px 6px 77px;
+}
+.text24{
+	margin: 8px 0px 6px 56px;
+}
+.text25{
+	margin: 8px 0px 6px 60px;
+}
+
+.div3{
+	height: 320px;
+	width: 970px;
+	background-color: whitesmoke;
+	margin: 25px 0px 20px 15px;
+	border-radius: 5px;
+	float: left;
+}
+.details{
+	margin: 0px 0px 0px 60px;
+}
+form{
+	display: inline;
+	margin-top: 20px;
+	font-size: 22px;
+}
+input{
+	height: 25px;
+	width: 450px;
+}
+.fname{
+	margin-left: 250px;
+}
+.email{
+	margin-left: 291px;
+}
+.phn{
+	margin-left: 207px;
+}
+.rollnm{
+	margin-left: 235px;
+}
+.adres{
+	margin-left: 268px;
+}
+
+.save{
+	color: whitesmoke;
+	background-color: #1a75ff;
+	border-radius: 3px;
+	border: none;
+	margin-left: 400px;
+	padding: 8px 9px 5px 9px;
+	font-size: 15px;
+}
+
+
+.div4{
+	height: 310px;
+	width: 960px;
+	background-color: whitesmoke;
+	margin: 0px 0px 25px 15px;
+	border-radius: 5px;
+	float: left;
+}
+.pstatus{
+	display: inline;
+	font-size: 25px;
+	margin: 10px 0px 5px 60px;
+	font-weight: bolder;
+}
+.webd, .webd1, .webm, .webm1, .onep, .onep1, .mbl, .mbl1, .api, .api1{
+	background-color: lightgrey;
+	height: 3px;
+	width: 900px;
+}
+.webd{
+/*	font-size: 18px;*/
+	margin: 10px 0px 10px 30px;
+}
+.webm{
+	margin: 10px 0px 10px 30px;	
+}
+.onep{
+	margin: 10px 0px 10px 30px;
+}
+.mbl{
+	margin: 10px 0px 10px 30px;
+}
+.api{
+	margin: 10px 0px 10px 30px;
+}
+.webd1{
+	background-color: green;
+	width: 700px;
+}
+.webm1{
+	background-color: green;
+	width: 820px;
+}
+.onep1{
+	background-color: red;
+	width: 790px;
+}
+.mbl1{
+	background-color: blue;
+	width: 750px;
+}
+.api1{
+	background-color: black;
+	width: 860px;
+}
+.pnames{
+	display: inline;
+	font-size: 20px;
+	margin: 10px 0px 0px 30px;
+}

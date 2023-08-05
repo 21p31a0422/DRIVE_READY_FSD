@@ -1,31 +1,93 @@
-h1{
+/*h1{
 	background: red;
 	outline: 10px dotted black;
-	margin-top: 50px;
-	margin-left: 70px;
+	margin: auto;
+	width: 90%;
 }
 p{
 	background: blue;
 }
 div{
 	background-color: aqua;
-	height: 300px;
-	width: 400px;
+	height: 100px;
+	width: 100px;
 }
 .dmain{
 	background-color: black;
 	height: 400px;
-	width: 1200px;
+	width: 1350px;
 }
-.d1{
+.d1, .d2, .d3{
 	float: left;
+	margin-top: 20px;
 	margin-left: 30px;
 }
-.d2{
-	float: left;
-	margin-left: 30px;
+
+.p2{
+	padding: 20px;
 }
-.d3{
+
+.htask{
+	margin-top: 40px;
+}
+
+.taskdiv{
+	height: 350px;
+	width: 60%;
+	margin: auto;
+
+}
+
+.t1{
+	margin: 40px 0px 0px 20px;
+	outline: 5px solid red;
+	padding: 80px 80px 80px 80px;
 	float: left;
-	margin-left: 30px;
+}
+
+.t2{
+	outline: 5px dotted blue;
+	margin: 40px 0px 0px 40px;
+	padding: 80px 80px 80px 80px;
+	border-radius: 100%;
+	float: left;
+}
+
+.t3{
+	margin: 40px 0px 0px 20px;
+	outline: 5px double green;
+	padding: 80px 80px 80px 80px;
+	border-radius: 10px;
+	float: left;
+}
+*/
+ 
+.mar{
+	height: 610px;
+	width: 1100px;
+	background-color: cyan;
+	margin: auto;
+	margin-top: 20px;
+	position: relative;
+}
+.bor{
+	height: 450px;
+	width: 900px;
+	background-color: lightgreen;
+	margin: 65px 85px 90px 95px;
+	position: absolute;
+}
+.pad{
+	height: 300px;
+	width: 700px;
+	background-color: blue;
+	margin: 60px 85px 90px 95px;
+	position: absolute;
+}
+.cont{
+	height: 150px;
+	width: 500px;
+	background-color: red;
+	margin: 60px 85px 90px 95px;
+	position: absolute;
 }
