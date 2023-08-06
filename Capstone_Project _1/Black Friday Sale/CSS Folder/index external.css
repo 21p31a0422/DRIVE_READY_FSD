@@ -1,0 +1,417 @@
+.maindiv{
+	height: 5000px;
+	width: 100%;
+}
+.div1{
+	background-color: #DD4D3E;
+	width: 1510px;
+	height: 550px;
+	position: relative;	
+}
+.div12{ 
+	background-color: whitesmoke;
+	height: 260px;
+	width: 600px; 
+	position: absolute;
+	top: 145px; 
+	left: 455px;
+	outline: 15px ridge black;
+}
+.blk{
+	font-size: 120px;
+	font-weight: bold;
+	position: absolute;
+	top: 6px;
+	left: 155px;
+}
+.fri{
+	font-size: 60px;
+	font-family: open-sans;
+	position: absolute;
+	top: 117px;
+	left: 226px;
+}
+.product{
+	position: absolute;
+	top: 190px;
+	left: 171px;
+}
+.div2{
+	height: 500px;
+	width: 1510px;
+	background-color: #E01C18;
+}
+.div21{
+	height: 500px;
+	width: 780px;
+	float: left;
+	background-color: #E01C18;
+	text-align: right;
+}
+.div22{
+	margin-left: 20px;
+	float: left;
+	background-size: cover;
+	background-image: url('../images/man red tshirt.jpg');
+	height: 500px;
+	width: 710px;
+}
+.lc, .p70, .offall, .desc1, .desc2, .strtnow{
+	color: whitesmoke;
+	font-family: verdana;
+}
+.lc{
+	position: absolute;
+	top: 630px;
+	left: 560px;
+	font-size: 20px;
+	letter-spacing: 7px;
+}
+.p70{
+	position: absolute;
+	top: 640px;
+	left: 420px;
+	font-size: 140px;
+	font-weight: bolder;
+}
+.offall{
+	position: absolute;
+	top: 795px;
+	left: 640px;
+	font-size: 35px;
+}
+.desc1{	
+	position: absolute;
+	top: 855px;
+	left: 345px;
+	font-size: 14px;
+}
+.desc2{	
+	position: absolute;
+	top: 881px;
+	left: 442px;
+	font-size: 14px;
+}
+.strtnow{
+	position: absolute;
+	top: 920px;
+	left: 670px;
+	font-size: 14px;
+	letter-spacing: 4px;
+}
+.bar{
+	position: absolute;
+	top: 940px;
+	left: 670px;
+	height: 6px;
+	width: 114px;
+	background-color: whitesmoke;
+}
+.div3{
+	background-color: black;
+	height: 600px;
+	width: 1510px;
+	font-family: verdana;
+	color: whitesmoke;
+}
+.div31{
+	height: 460px;
+	width: 380px;
+	position: absolute;
+	top: 1127px;
+	left: 200px;
+}
+.num1{
+	font-size: 110px;
+	position: absolute;
+	top: 2px;
+	font-weight: bolder;
+}
+.txt1{
+	font-size: 33px;
+	position: absolute;
+	top: 140px;
+	font-weight: bolder;
+}
+.matter1{
+	position: absolute;
+	top: 247px;
+}
+.div32{
+	height: 460px;
+	width: 380px;
+	position: absolute;
+	top: 1127px;
+	left: 900px;
+}
+.div4{
+	height: 550px;
+	width: 1510px;
+	background-image: url("../images/keys.jpg");
+	object-fit: cover;
+	font-family: verdana;
+}
+.div41{
+	color: whitesmoke;
+	width: 573px;
+	height: 300px;
+	position: absolute;
+	top: 1773px;
+	left: 110px;
+	font-size: 47px;
+	line-height: 1.5;
+}
+.keys_4th{
+	font-weight: bolder;
+}
+.div5{
+	background-color: #E01C18;
+	width: 1510px;
+	height: 400px;
+	color: whitesmoke;
+	font-family: verdana;
+}
+.follow{
+	position: absolute;
+	top: 2309px;
+	left: 572px;
+	font-size: 55px;
+	font-weight: bolder;
+}
+.icns{
+	position: absolute;
+	top: 2406px;
+	left: 616px;
+	letter-spacing: 13px;
+	font-size: 33px;
+}
+.bar2{
+	height: 6px;
+	width: 100px;
+	background-color: whitesmoke;
+	position: absolute;
+	top: 2478px;
+	left: 711px;
+}
+.div6{
+	height: 566px;
+	width: 1510px;
+	background-image: url("../images/design.png");
+	font-family: verdana;
+	color: whitesmoke;
+}
+.div61{
+	height: 422px;
+	width: 322px;
+	position: absolute;
+	top: 2676px;
+	left: 227px;
+	outline: 10px solid whitesmoke;
+}
+.sale61{
+	font-size: 100px;
+	font-weight: bolder;
+	position: absolute;
+	top: 210px;
+	left: 25px;
+}
+.sale60{
+	font-size: 94px;
+	position: absolute;
+	top: 93px;
+	left: 40px;
+}
+.strs1, .strs2{
+	font-size: 80px;
+	font-weight: bolder;
+	position: absolute;
+	top: 20px;
+	left: 40px;
+	letter-spacing: 30px;
+}
+.strs2{
+	position: absolute;
+	top: 325px;
+	left: 46px;
+}
+.div62{
+	height: 300px;
+	width: 330px;
+	position: absolute;
+	top: 2750px;
+	left: 678px;
+}
+.manout{
+	color: #E01C18;
+	font-size: 45px;
+}
+.mtr00{
+	position: absolute;
+	top: 76px;
+	left: 0px;
+	line-height: 1.5;
+}
+.clknow{
+	position: absolute;
+	top: 203px;
+	left: 0px;
+	font-size: 20px;
+}
+.bar3{
+	position: absolute;
+	top: 231px;
+	left: 0px;
+	background-color: whitesmoke;
+	height: 6px;
+	width: 116px;
+}
+.div7{
+	background-color: #E01C18;
+	height: 800px;
+	width: 1510px;
+	font-family: verdana;
+	color: whitesmoke;
+}
+.div71{
+	height: 570px;
+	width: 600px;
+	position: absolute;
+	top: 3287px;
+	left: 200px;
+}
+.ojb{
+	position: absolute;
+	top: 25px;
+	font-size: 48px;
+}
+.ojb1, .ojb2{
+	position: absolute;
+	top: 77px;
+	font-size: 48px;
+}
+.ojb2{
+	left: 84px;
+	font-weight: bolder;
+}
+.nm{
+	position: absolute;
+	top: 143px;
+}
+input[placeholder="Enter your Name"]{
+	position: absolute;
+	top: 172px;
+	height: 30px;
+	width: 500px;
+}
+.adr{
+	position: absolute;
+	top: 222px;
+}
+input[placeholder="Enter a valid email address"]{
+	position: absolute;
+	top: 250px;
+	height: 30px;
+	width: 500px;
+}
+.mes{
+	position: absolute;
+	top: 297px;
+}
+textarea[placeholder="Enter your message"]{
+	position: absolute;
+	top: 325px;
+	width: 500px;
+	height: 113px;
+}
+button{
+	position: absolute;
+	top: 460px;
+	border: 2px solid whitesmoke;
+	background-color: #E01C18;
+	color: whitesmoke;
+	font-size: 13px;
+	padding: 8px 17px 8px 17px;
+}
+.div72{
+	height: 570px;
+	width: 330px;
+	position: absolute;
+	top: 3287px;
+	left: 930px;
+	color: whitesmoke;
+}
+.lgs{
+	font-weight: bolder;
+	font-size: 30px;
+	position: absolute;
+	top: 25px;
+}
+i[class="fa-brands fa-square-facebook"]{
+	color: black;
+	background-color: #E01C18;
+	position: absolute;
+	top: 85px;
+	left: 0px;
+	font-size: 49px;
+}
+.fabook{
+	position: absolute;
+	top: 150px;
+	left: 0px;
+}
+i[class="fa-brands fa-square-instagram"]{
+	color: black;
+	background-color: #E01C18;
+	position: absolute;
+	top: 218px;
+	left: 0px;
+	font-size: 49px;
+}
+.igram{
+	position: absolute;
+	top: 281px;
+	left: 0px;
+}
+i[class="fa-brands fa-square-twitter"]{
+	color: black;
+	background-color: #E01C18;
+	position: absolute;
+	top: 352px;
+	left: 0px;
+	font-size: 49px;
+}
+.twter{
+	position: absolute;
+	top: 415px;
+	left: 0px;
+}
+.samtxt1{
+	position: absolute;
+	top: 166px;
+	left: 0px;
+}
+.samtxt2{
+	position: absolute;
+	top: 301px;
+	left: 0px;
+}
+.samtxt3{
+	position: absolute;
+	top: 435px;
+	left: 0px;
+}
+.div8{
+	background-color: black;
+	height: 400px;
+	width: 1510px;
+}
+.div81{
+	height: 100px;
+	width: 550px;
+	position: absolute;
+	top: 4123px;
+	left: 506px;
+	color: whitesmoke;
+	text-align: center;
+	font-size: 30px;
+}
